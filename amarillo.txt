@@ -1,3 +1,21 @@
 La palabra amarillo deriva del bajo latín hispánico amarēllus, ‘amarillento, pálido’, diminutivo del latín amārus, ‘amargo’
 El amarillo es uno de los cuatro colores psicológicos primarios, junto con el rojo, el verde y el azul.
 Es considerado un color cálido, junto con el rojo, el naranja y todas las coloraciones que tienden a estos.
+
+ El modelo CMY o CMYK.
+El modelo CMY se basa en los colores cian, magenta y amarillo, mientras que, si le añades la K al final, 
+también incluye el color negro. Estos colores se basan en la síntesis sustractiva del color, es decir, 
+se crean al aplicar pigmentos que absorben las longitudes de ondas y refractan otras. Este es el modelo
+ que se usa para la impresión a color, ya que los colores se vuelven más oscuros al añadir más tinta o al
+  mezclarlos.
+
+ 
+
+Cuando mezclas dos de los colores primarios del modelo CMY (cian, magenta y amarillo), obtendrás los
+ siguientes colores secundarios:
+
+ 
+
+Azul. Se obtiene al mezclar el cian y el magenta.
+Rojo. Se obtiene al mezclar el magenta y el amarillo.
+Verde. Se obtiene al mezclar el amarillo y el cian.

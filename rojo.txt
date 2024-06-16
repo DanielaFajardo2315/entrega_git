@@ -1,3 +1,14 @@
 La palabra roja deriva del latín rŭssum o rŭsseŭs, ‘rojo subido’,5​ relacionado con ruber, ‘rojo’, del protoindoeuropeo *reudh–, ‘rojo’.
 El rojo es uno de los cuatro colores psicológicos primarios, junto con el amarillo, el verde y el azul.
 Es considerado un color cálido, junto con el naranja, el amarillo y todas las coloraciones que tienden a estos.
+
+El modelo RGB.
+El modelo RGB consiste en la mezcla del rojo, el verde y el azul, y el uso de estos colores se basa en la 
+síntesis aditiva que consiste en utilizar la luz como componente para obtener el color. Debido a esto, el 
+modelo RGB es el que se usa para reproducir imágenes en la televisión y los móviles.
+
+ 
+
+Los artistas y diseñadores en el ámbito digital también suelen usar el modelo RGB en sus creaciones, 
+ya que la luz de la pantalla del ordenador o portátil les permite crear cualquier color que deseen con las
+ diferentes combinaciones del modelo RGB.
